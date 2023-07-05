@@ -2,7 +2,7 @@ Random something
 ==
 Ini adalah sesuatu yang random dibuat oleh saya
 --
-*Berikut adalah list hal random yang saya buat*
--Makan kue
--Ayam Goreng
--Nasi uduk
+*biodata siswa terdiri dari 3 angkatan yaitu sebagai berikut*
+-Angkatan 2019
+- Angkatan 2020
+- Angkatan 2021
